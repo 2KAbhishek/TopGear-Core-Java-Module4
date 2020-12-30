@@ -8,7 +8,7 @@
 ![Contributors](https://img.shields.io/github/contributors/2kabhishek/Core-Java-Module4?style=plastic&color=f0f&label=Contributors)
 ![License](https://img.shields.io/github/license/2kabhishek/Core-Java-Module4?style=plastic&color=555&label=License)
 
-Contains solutions found in Module 4 of Core Java problem set.
+Contains solutions found in Module 4 of Core Java problem set. Problems on Threads.
 
 ## Prerequisites
 
